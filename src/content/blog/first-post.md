@@ -2,7 +2,7 @@
 title: 'First post'
 description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
 pubDate: 'Jul 08 2022'
-heroImage: '/blog-placeholder.jpg'
+heroImage: '/splash.jpg'
 categories: ['first']
 authors: ['gndx']
 tags: ['science', 'technology']

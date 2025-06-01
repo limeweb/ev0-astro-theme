@@ -2,7 +2,7 @@
 title: 'The Hubble Space Telescope: Unveiling the Universe'
 description: 'Discover the incredible images and scientific discoveries made possible by the Hubble Space Telescope.'
 pubDate: '2021-09-19T01:20:54.690Z'
-heroImage: '/blog-placeholder.jpg'
+heroImage: '/splash.jpg'
 categories: ['space telescopes']
 tags: ['Hubble', 'Astronomy', 'Deep Space', 'Scientific Discoveries']
 author: '["gndx"]'

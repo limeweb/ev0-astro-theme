@@ -2,7 +2,7 @@
 title: 'Mars: The Red Planets Mysteries Unveiled'
 description: 'Explore the geology, history, and potential for human colonization on the Martian surface.'
 pubDate: '2021-09-19T01:20:12.616Z'
-heroImage: '/blog-placeholder.jpg'
+heroImage: '/splash.jpg'
 categories: ['planetary science']
 tags: ['Mars', 'Space Exploration', 'Colonization', 'Martian Geology']
 author: '["gndx"]'

@@ -156,7 +156,7 @@ Follow the instructions and this will generate a new markdown file in the `src/c
 ├── public/
 │   └── favicons/
 │   └── fonts/
-│   └── blog-placeholder.jpg
+│   └── splash.jpg
 │   └── favicon.png
 │   └── humans.txt
 ├── scripts/

@@ -2,7 +2,7 @@
 title: 'The Search for Extraterrestrial Life'
 description: 'Join the quest for life beyond Earth as we explore exoplanets, microbial life, and the possibilities of alien civilizations.'
 pubDate: '2021-09-19T01:20:04.336Z'
-heroImage: '/blog-placeholder.jpg'
+heroImage: '/splash.jpg'
 categories: ['astrobiology']
 tags: ['Exoplanets', 'SETI', 'Astrobiology', 'Alien Life']
 author: '["gndx"]'
