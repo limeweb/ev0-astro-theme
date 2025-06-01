@@ -83,11 +83,11 @@ To configure your blog, edit the `src/config/config.json` file. This file contai
     "youtube": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
+    "meta_author": "chris damara @gndx",
     "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
+    "name": "chris damara Tavares @gndx",
     "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
     "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
   }
@@ -186,7 +186,7 @@ Contributions to this project are welcome. If you find a bug or have a suggestio
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://gndx.io"><img src="https://avatars.githubusercontent.com/u/10554486?v=4?s=100" width="100px;" alt="Oscar Barajas Tavares"/><br /><sub><b>Oscar Barajas Tavares</b></sub></a><br /><a href="#doc-gndx" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://gndx.io"><img src="https://avatars.githubusercontent.com/u/10554486?v=4?s=100" width="100px;" alt="chris damara Tavares"/><br /><sub><b>chris damara Tavares</b></sub></a><br /><a href="#doc-gndx" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://jhonachata.dev/"><img src="https://avatars.githubusercontent.com/u/7337141?v=4?s=100" width="100px;" alt="Jhon Achata Limachi"/><br /><sub><b>Jhon Achata Limachi</b></sub></a><br /><a href="#bug-dcyar" title="Bug reports">🐛</a> <a href="#ideas-dcyar" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://erasmoh.dev"><img src="https://avatars.githubusercontent.com/u/12125288?v=4?s=100" width="100px;" alt="Erasmo Hernández"/><br /><sub><b>Erasmo Hernández</b></sub></a><br /><a href="#bug-erasmoh" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://francisco-araujo.com"><img src="https://avatars.githubusercontent.com/u/49659840?v=4?s=100" width="100px;" alt="Francisco Araujo"/><br /><sub><b>Francisco Araujo</b></sub></a><br /><a href="#design-franciscoagx" title="Design">🎨</a> <a href="#bug-franciscoagx" title="Bug reports">🐛</a></td>

@@ -1,7 +1,7 @@
 /* TEAM */
-	Chef: Oscar Barajas Tavares
+	Chef: chris damara Tavares
 	Contact: oscar [at] gndx.dev
-	Twitter: @gndx
+	Twitter: chris damara
 	From: Medellín, Antioquia, Colombia.
 
 /* THANKS */
